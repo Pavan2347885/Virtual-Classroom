@@ -1,2 +1,2 @@
 # Virtual-Classroom
-A virtual classroom designed with OOPs and SOLID principles on top with Java
+A virtual classroom designed with OOPS and SOLID principles in Java focuses on creating a scalable, maintainable, and flexible system. Each class, such as Teacher, Student, Classroom, and Assignment, follows single responsibility and encapsulation, ensuring clear boundaries and functions. The system leverages interfaces and inheritance for flexibility, making it easier to add new features. Adhering to SOLID ensures that modules are open for extension but closed for modification, promoting clean code and long-term maintainability
